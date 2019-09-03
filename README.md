@@ -77,7 +77,7 @@ In the blacklist because of: [Hamster Marketplace](https://medium.com/golden-bor
 
 CTO @ uKit AI, a project that gathered investments from the general public and scammed them by nor launching the product. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [uKit AI](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-ukit-ai-dbecd5318ad0)
+In the blacklist because of: [uKit AI](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-ukit-ai-dbecd5318ad0).
 
 ## Roman Steinberg
 
@@ -85,7 +85,7 @@ In the blacklist because of: [uKit AI](https://medium.com/golden-borodutch/%D1%8
 
 Data Scientist @ uKit AI. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [uKit AI](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-ukit-ai-dbecd5318ad0)
+In the blacklist because of: [uKit AI](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-ukit-ai-dbecd5318ad0).
 
 ## Kirill Suslov
 
@@ -93,7 +93,7 @@ In the blacklist because of: [uKit AI](https://medium.com/golden-borodutch/%D1%8
 
 Developer and CEO @ Finom, company that scammed their investors by getting their money and not releasing the product.
 
-In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004)
+In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004).
 
 ## Alexandr Barkovskii
 
@@ -101,7 +101,7 @@ In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%
 
 CTO @ Finom. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004)
+In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004).
 
 ## Vadislav Alushkin
 
@@ -109,7 +109,7 @@ In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%
 
 CSO @ Finom. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004)
+In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004).
 
 ## Yaroslav Madarakh
 
@@ -117,7 +117,7 @@ In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%
 
 Chief architect @ Finom. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004)
+In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004).
 
 ## Kirill Yashuk
 
@@ -125,7 +125,7 @@ In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%
 
 Backend developer @ Finom. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004)
+In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004).
 
 ## Mykhailo Daniuk
 
@@ -133,7 +133,7 @@ In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%
 
 CTO @ Dorado, company that scammed all of their investors by not launching the product.
 
-In the blacklist because of: [Dorado](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-dorado-234a840293fc)
+In the blacklist because of: [Dorado](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-dorado-234a840293fc).
 
 ## Andrei Genelev
 
@@ -141,7 +141,7 @@ In the blacklist because of: [Dorado](https://medium.com/golden-borodutch/%D1%87
 
 CTO @ Adgex, company that not only scammed all their investors by not launching anything but whos founders are under charges because of scam actions.
 
-In the blacklist because of: [Adgex](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-adgex-adde2dfb1ac5)
+In the blacklist because of: [Adgex](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-adgex-adde2dfb1ac5).
 
 ## Yan Palmachinskiy
 
@@ -166,6 +166,22 @@ In the blacklist because of: [ENDO](https://medium.com/golden-borodutch/honest-e
 Blockchain developer @ Endo. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [ENDO](https://medium.com/golden-borodutch/honest-endo-ico-review-e40416ec6589).
+
+## Vladislav Sapozhnikov
+
+[LinkedIn](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%B0%D0%BF%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-30aa0860/), [Facebook](https://www.facebook.com/dragoninvest), [Facebook 2](https://www.facebook.com/vlad.sapozhnikov.77?hc_ref=ARQbxgo1rNaJbkPwdRpBq_UCQX_riWDlxFQ8oxluVOQPTtbBR7M0UJFkp5h6fxAhfZk&fref=nf)
+
+Developer and CEO @ DEEX, company that took an open source project, changed it's logo and presented it as the only result of development after taking money from investors. Not to mention that the rest of the things promised haven't been released at all.
+
+In the blacklist because of: [DEEX](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-deex-9d4f0c13c407).
+
+## Sergey Sevantsyan
+
+[Facebook](https://www.facebook.com/Sergey.Sevantsyan), [VK](https://vk.com/sergey.sevantsyan), [LinkedIn](https://www.linkedin.com/in/sergey-sevantsyan/)
+
+Blockchain specialist @ DEEX. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [DEEX](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-deex-9d4f0c13c407).
 
 # FAQ
 
