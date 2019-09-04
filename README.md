@@ -4,7 +4,7 @@ Hi there! You probably landed on this page because you either googled a develope
 
 Simple: over the last couple of years there were numerous scam projects within and outside of crypto space. And if managers of the failed projects that stole money from their investors are well-traced on the Internet, we noticed that some developers who actively participated in scamming innocent people feel no guilt. This website intends to fulfill the following tasks:
 
-1. Provide Internet traceability for developers who knowingly participate in scam projects and leave evidence (hence, saving employers from hiring immoral beings).
+1. Provide Internet traceability for developers who knowingly participate in scam projects and leave evidence.
 2. Push developers into thinking thousand times before signing up onto a scam project (hence, rendering scam project jobs either uneducated or unfillable — both preventing them from launching a scam product).
 
 You can suggest new developers or submit edits through opening an issue or a pull request at [our GitHub repository](https://github.com/backmeupplz/developerblacklist).
@@ -12,6 +12,8 @@ You can suggest new developers or submit edits through opening an issue or a pul
 > Most of the list initially will be derived from ["McAfee Approves" community Honest Reviews](https://medium.com/golden-borodutch/everything-you-need-to-know-about-mcafee-approves-1a308d05ce72).
 
 > All the data on this website is taken from public sources and is not subject to be removed by any laws of any countries. If you do want to remove the data — first inquire within the open sources where the data is derived from.
+
+> This website can neither serve as a punishment nor aim at bringing anything negative to the people listed. If one thinks that simply publishing a list of names connected to their work experience can hurt anyone — then the blame is not on the list but on the experience itself. This website serves asolely as a recording mechanism — it simply archives public information. It doesn't judge — readers of this website derive their conclusions themselves.
 
 # Blacklist
 
@@ -182,6 +184,70 @@ In the blacklist because of: [DEEX](https://medium.com/golden-borodutch/%D1%87%D
 Blockchain specialist @ DEEX. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [DEEX](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-deex-9d4f0c13c407).
+
+## Mark Wahlbeck (Price)
+
+[LinkedIn](https://www.linkedin.com/in/spentak/), [Twitter](https://twitter.com/markprice_dev), [Telegram](http://t.me/spentak), [GitHub](https://github.com/spentak), [BitBucket](https://bitbucket.org/spentak/)
+
+Blockchain developer and CEO @ Cache, a company that gathered money from the investors and disappeared — now the traces of Cache can only be found in empty wallets of people who trusted them.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Jacob Luetzow
+
+[LinkedIn](https://www.linkedin.com/in/jacob-luetzow-173b9397/), [WhitePages](https://www.whitepages.com/name/Jacob-A-Lutzow/New-Berlin-WI/szsjzsn), [Telegram](http://t.me/floatware)
+
+Blockchain developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Nathan Brewer
+
+[LinkedIn](https://www.linkedin.com/in/nathan-brewer-0988/), [Facebook](https://www.facebook.com/nathan.brewer.560), [Telegram](http://t.me/natebrewer)
+
+Blockchain and web developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Jason Brewer
+
+[LinkedIn](https://www.linkedin.com/in/jbrewer3/), [Facebook](https://www.facebook.com/Jradness), [Telegram](http://t.me/jradness)
+
+SDK and web developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Caleb Stultz
+
+[LinkedIn](https://www.linkedin.com/in/calebstultz/), [AngelList](https://angel.co/kalub92), [Telegram](http://t.me/gurucaleb)
+
+SDK and iOS developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Jonathan Burgoyne
+
+[LinkedIn](https://www.linkedin.com/in/jonathan-burgoyne-54aa1335/), [Twitter](https://twitter.com/jonathan_ios)
+
+SDK and Android developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Ben Kimble
+
+[Twitter](https://twitter.com/benreustorm), [Telegram](http://t.me/benreustorm)
+
+SDK and Unity developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
+
+## Jack Davis
+
+[LinkedIn](https://www.linkedin.com/in/jack-davis-008165a/), [Facebook](https://www.facebook.com/jackd942), [Twitter](https://twitter.com/jackd942?lang=ru)
+
+Backend developer @ Cache. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
 
 # FAQ
 
