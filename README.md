@@ -249,6 +249,22 @@ Backend developer @ Cache. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
 
+## Denis Kabanets
+
+[LinkedIn](https://www.linkedin.com/in/denis-kabanets)
+
+CEO and founder @ Inspeer, a company that gathered money from the investors ($7 000 000) and disappeared — now the traces of Inspeer can only be found in empty wallets of people who trusted them. Their website is now disabled, the team is gone, so is the money.
+
+In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
+
+## Denis Ryabikin
+
+[LinkedIn](https://www.linkedin.com/in/denis-ryabikin-82a658151/)
+
+CTO @ Inspeer. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
