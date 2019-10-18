@@ -269,7 +269,7 @@ In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
 
 > Q: What if I'm on the list and I want to be removed from it?
 >
-> A: Provide solid evidence why you should be removed from the list by submitting a pull request or an issue.
+> A: Provide solid evidence why you should be removed from the list by submitting a pull request or an issue or simply use [the submission form](https://forms.gle/zvpdHtihWrR5z48D6).
 
 > Q: How do I submit a new person to the list?
 >
