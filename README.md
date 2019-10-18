@@ -9,7 +9,7 @@ Simple: over the last couple of years there were numerous scam projects within a
 
 You can suggest new developers or submit edits through opening an issue or a pull request at [our GitHub repository](https://github.com/backmeupplz/developerblacklist) or filling out [the form](https://forms.gle/zvpdHtihWrR5z48D6).
 
-> Most of the list initially will be derived from ["McAfee Approves" community Honest Reviews](https://medium.com/golden-borodutch/everything-you-need-to-know-about-mcafee-approves-1a308d05ce72).
+> Most of the list initially will be derived from ["Avocado Approves" community Honest Reviews](https://medium.com/golden-borodutch/everything-you-need-to-know-about-mcafee-approves-1a308d05ce72).
 
 > All the data on this website is taken from public sources and is not subject to be removed by any laws of any country. If you do want to remove the data — first inquire within the open sources where the data is derived from.
 
