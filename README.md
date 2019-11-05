@@ -271,7 +271,7 @@ In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
 
 CTO @ LAToken, a company that gathered money from the investors ($18 800 000) and have never delivered on promises. The only thing they've built is the exchange for the LATokens that they've sold to investors and that lost over 95% of it's price.
 
-In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16)
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16).
 
 ##  Maxim Vasilyev
 
@@ -279,7 +279,7 @@ In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken
 
 Frontend developer @ LAToken. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16)
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16).
 
 ## Mikhail Burtsev 
 
@@ -287,7 +287,87 @@ In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken
 
 Deep learning researcher @ LAToken. Willingly participated in an obvious scam project.
 
-In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16)
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16).
+
+## Sergey Ponomarev
+
+[LinkedIn](https://www.linkedin.com/in/sergey-ponomarev/)
+
+CEO @ SONM, a company that gathered money from the investors ($42 000 000), launched the seemingly working product and exit-scammed by announcing that they will no longer support the development but will rather work on something else. Their token lost over 95% of it's price after this event.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Igor Lebedev
+
+[LinkedIn](https://www.linkedin.com/in/iolebedev/)
+
+CTO @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Roman Sivakov
+
+[LinkedIn](https://www.linkedin.com/in/rsivakov/)
+
+DevOps @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Anton Shchukin
+
+[LinkedIn](https://www.linkedin.com/in/anton-shchukin-05b177a3/)
+
+Lead integration developer @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Alexander Sigaev
+
+[LinkedIn](https://www.linkedin.com/in/alexander-sigaev-b0926615a/)
+
+Lead system analyst @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Andrey Vorozhtsov
+
+[LinkedIn](https://www.linkedin.com/in/vorozhtsovvv/)
+
+Information security @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Anton Matveenko
+
+[LinkedIn](https://www.linkedin.com/in/antmat/)
+
+Senior software developer @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Sergey Bolotaev
+
+[LinkedIn](https://www.linkedin.com/in/sergey-bolotaev-66680b84/)
+
+Senior developer @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Dmitry Pisanko
+
+[LinkedIn](https://www.linkedin.com/in/dmitry-pisanko-077460105/)
+
+Development team lead @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Maxim Shcherbo
+
+[LinkedIn](https://www.linkedin.com/in/maxim-shcherbo-3204582b/)
+
+Integration team lead @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
 
 # FAQ
 
