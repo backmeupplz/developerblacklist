@@ -265,6 +265,30 @@ CTO @ Inspeer. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
 
+## Danila Simonov 
+
+[LinkedIn](https://www.linkedin.com/in/danila-simonov-8025a961/)
+
+CTO @ LAToken, a company that gathered money from the investors ($18 800 000) and have never delivered on promises. The only thing they've built is the exchange for the LATokens that they've sold to investors and that lost over 95% of it's price.
+
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16)
+
+##  Maxim Vasilyev
+
+[LinkedIn](https://www.linkedin.com/in/maxim-vasilyev-b7995230/)
+
+Frontend developer @ LAToken. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16)
+
+## Mikhail Burtsev 
+
+[LinkedIn](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/)
+
+Deep learning researcher @ LAToken. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16)
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
