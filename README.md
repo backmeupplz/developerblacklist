@@ -369,6 +369,22 @@ Integration team lead @ SONM. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
 
+## Pavel Stukolov
+
+[LinkedIn](https://www.linkedin.com/in/pavel-stukolov-760558a/)
+
+CEO @ TokenStars, a company that gathered $5 000 000 and never delivered on promises. Currently their token lost over 95% of its value.
+
+In the blacklist because of: [TokenStars](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
+
+## Andrey Mashkovsky
+
+[LinkedIn](https://www.linkedin.com/in/andrey-mashkovsky-b3a04286/)
+
+Developer @ TokenStars. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [TokenStars](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
