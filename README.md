@@ -385,6 +385,38 @@ Developer @ TokenStars. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [TokenStars](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
 
+## Alexey Burdyko
+
+[LinkedIn](https://www.linkedin.com/in/alexey-burdyko-33a29316/)
+
+CEO @ Play2Live, a company that gathered $30 000 000 and never delivered on promises. Currently their token lost over 95% of its value.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
+## Alexey Kuznetsov
+
+[LinkedIn](https://www.linkedin.com/in/alexey-kuznetsov-7b75385a/)
+
+Lead developer @ Play2Live. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
+## Andrey Yankovsky
+
+[LinkedIn](https://www.linkedin.com/in/andrey-yankovsky-32a961aa/)
+
+Lead software engineer @ Play2Live. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
+## Andrew Rovniy
+
+[LinkedIn](https://www.linkedin.com/in/rovniy/)
+
+Lead frontend engineer @ Play2Live. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
