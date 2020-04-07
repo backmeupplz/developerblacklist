@@ -1,19 +1,19 @@
 # Developer blacklist
 
-Hi there! You probably landed on this page because you either googled a developer's name or are actually looking for a "developers blacklist" and now wonder: what is it all about?
+Hi there! You have probably landed on this page because you either googled a developer's name or are actually looking for a "developers blacklist" and now wonder: what is this all about?
 
-Simple: over the last couple of years there were numerous scam projects within and outside of crypto space. And if managers of the failed projects that stole money from their investors are well-traced on the Internet, we noticed that some developers who actively participated in scamming innocent people feel no guilt. This website intends to fulfill the following tasks:
+Simple: over the last couple of years there were numerous scam projects within and outside of the crypto space. And if managers of the failed projects that stole money from their investors are well-traced on the Internet, we noticed that some developers who actively participated in scamming innocent people feel no guilt. This website intends to fulfill the following tasks:
 
 1. Provide Internet traceability for developers who knowingly participate in scam projects and leave evidence.
 2. Push developers into thinking thousand times before signing up onto a scam project (hence, rendering scam project jobs either uneducated or unfillable — both preventing them from launching a scam product).
 
-You can suggest new developers or submit edits through opening an issue or a pull request at [our GitHub repository](https://github.com/backmeupplz/developerblacklist).
+You can suggest new developers or submit edits through opening an issue or a pull request at [our GitHub repository](https://github.com/backmeupplz/developerblacklist) or filling out [the form](https://forms.gle/zvpdHtihWrR5z48D6).
 
-> Most of the list initially will be derived from ["McAfee Approves" community Honest Reviews](https://medium.com/golden-borodutch/everything-you-need-to-know-about-mcafee-approves-1a308d05ce72).
+> Most of the list initially will be derived from ["Avocado Approves" community Honest Reviews](https://medium.com/golden-borodutch/everything-you-need-to-know-about-mcafee-approves-1a308d05ce72).
 
-> All the data on this website is taken from public sources and is not subject to be removed by any laws of any countries. If you do want to remove the data — first inquire within the open sources where the data is derived from.
+> All the data on this website is taken from public sources and is not subject to be removed by any laws of any country. If you do want to remove the data — first inquire within the open sources where the data is derived from.
 
-> This website can neither serve as a punishment nor aim at bringing anything negative to the people listed. If one thinks that simply publishing a list of names connected to their work experience can hurt anyone — then the blame is not on the list but on the experience itself. This website serves asolely as a recording mechanism — it simply archives public information. It doesn't judge — readers of this website derive their conclusions themselves.
+> This website can neither serve as a punishment nor aim at bringing anything negative to the people listed. If one thinks that simply publishing a list of names connected to their work experience can hurt anyone — then the blame is not on the list but on the experience itself. This website serves solely as a recording mechanism — it simply archives public information. It doesn't judge — readers of this website derive their conclusions themselves.
 
 # Blacklist
 
@@ -337,11 +337,179 @@ Developer @ Universa. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
 
+## Denis Kabanets
+
+[LinkedIn](https://www.linkedin.com/in/denis-kabanets)
+
+CEO and founder @ Inspeer, a company that gathered money from the investors (\$7 000 000) and disappeared — now the traces of Inspeer can only be found in empty wallets of people who trusted them. Their website is now disabled, the team is gone, so is the money.
+
+In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
+
+## Denis Ryabikin
+
+[LinkedIn](https://www.linkedin.com/in/denis-ryabikin-82a658151/)
+
+CTO @ Inspeer. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Inspeer](https://t.me/ICOmuzhik/3375).
+
+## Danila Simonov
+
+[LinkedIn](https://www.linkedin.com/in/danila-simonov-8025a961/)
+
+CTO @ LAToken, a company that gathered money from the investors (\$18 800 000) and have never delivered on promises. The only thing they've built is the exchange for the LATokens that they've sold to investors and that lost over 95% of it's price.
+
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16).
+
+## Maxim Vasilyev
+
+[LinkedIn](https://www.linkedin.com/in/maxim-vasilyev-b7995230/)
+
+Frontend developer @ LAToken. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16).
+
+## Mikhail Burtsev
+
+[LinkedIn](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/)
+
+Deep learning researcher @ LAToken. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [LAToken](https://telegra.ph/Life-after-ICO-LAToken-turned-out-scam-not-blockchain-Bonus-Valentin-Preobrazhenskiy-and-the-Biznes-Molodost--part-13-01-16).
+
+## Sergey Ponomarev
+
+[LinkedIn](https://www.linkedin.com/in/sergey-ponomarev/)
+
+CEO @ SONM, a company that gathered money from the investors (\$42 000 000), launched the seemingly working product and exit-scammed by announcing that they will no longer support the development but will rather work on something else. Their token lost over 95% of it's price after this event.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Igor Lebedev
+
+[LinkedIn](https://www.linkedin.com/in/iolebedev/)
+
+CTO @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Roman Sivakov
+
+[LinkedIn](https://www.linkedin.com/in/rsivakov/)
+
+DevOps @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Anton Shchukin
+
+[LinkedIn](https://www.linkedin.com/in/anton-shchukin-05b177a3/)
+
+Lead integration developer @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Alexander Sigaev
+
+[LinkedIn](https://www.linkedin.com/in/alexander-sigaev-b0926615a/)
+
+Lead system analyst @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Andrey Vorozhtsov
+
+[LinkedIn](https://www.linkedin.com/in/vorozhtsovvv/)
+
+Information security @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Anton Matveenko
+
+[LinkedIn](https://www.linkedin.com/in/antmat/)
+
+Senior software developer @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Sergey Bolotaev
+
+[LinkedIn](https://www.linkedin.com/in/sergey-bolotaev-66680b84/)
+
+Senior developer @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Dmitry Pisanko
+
+[LinkedIn](https://www.linkedin.com/in/dmitry-pisanko-077460105/)
+
+Development team lead @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Maxim Shcherbo
+
+[LinkedIn](https://www.linkedin.com/in/maxim-shcherbo-3204582b/)
+
+Integration team lead @ SONM. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [SONM](https://twitter.com/sonmsupremacy/status/1172685492825010176).
+
+## Pavel Stukolov
+
+[LinkedIn](https://www.linkedin.com/in/pavel-stukolov-760558a/)
+
+CEO @ TokenStars, a company that gathered \$5 000 000 and never delivered on promises. Currently their token lost over 95% of its value.
+
+In the blacklist because of: [TokenStars](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
+
+## Andrey Mashkovsky
+
+[LinkedIn](https://www.linkedin.com/in/andrey-mashkovsky-b3a04286/)
+
+Developer @ TokenStars. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [TokenStars](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
+
+## Alexey Burdyko
+
+[LinkedIn](https://www.linkedin.com/in/alexey-burdyko-33a29316/)
+
+CEO @ Play2Live, a company that gathered \$30 000 000 and never delivered on promises. Currently their token lost over 95% of its value.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
+## Alexey Kuznetsov
+
+[LinkedIn](https://www.linkedin.com/in/alexey-kuznetsov-7b75385a/)
+
+Lead developer @ Play2Live. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
+## Andrey Yankovsky
+
+[LinkedIn](https://www.linkedin.com/in/andrey-yankovsky-32a961aa/)
+
+Lead software engineer @ Play2Live. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
+## Andrew Rovniy
+
+[LinkedIn](https://www.linkedin.com/in/rovniy/)
+
+Lead frontend engineer @ Play2Live. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
 >
-> A: Provide solid evidence why you should be removed from the list by submitting a pull request or an issue.
+> A: Provide solid evidence why you should be removed from the list by submitting a pull request or an issue or simply use [the submission form](https://forms.gle/zvpdHtihWrR5z48D6).
 
 > Q: How do I submit a new person to the list?
 >
