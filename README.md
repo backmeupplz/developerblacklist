@@ -249,6 +249,94 @@ Backend developer @ Cache. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [Cache](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-cache-6492079779be).
 
+## Alexander Borodich
+
+[LinkedIn](https://www.linkedin.com/in/borodich/?originalSubdomain=lt), [Facebook](https://www.facebook.com/borodich)
+
+CEO @ Universa, a company that gathered money from the investors and never produced a product that has market-fit. All investors lost money, and none of the regulator rules were followed.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Sergey Chernov
+
+[LinkedIn](https://www.linkedin.com/in/sergey-chernov-32a10418/)
+
+CTO @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Oleg Kravchenko
+
+[LinkedIn](https://www.linkedin.com/in/okravc/), [Facebook](https://web.facebook.com/oleg.kr)
+
+System administrator @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Alexander Myodov
+
+[LinkedIn](https://ru.linkedin.com/in/amyodov), [Facebook](https://www.facebook.com/amyodov)
+
+Lead developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Vadim Kovrigin
+
+[LinkedIn](https://www.linkedin.com/in/stry3/), [Facebook](https://www.facebook.com/vadim.kovrigin)
+
+Lead developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Mark Trubnikov
+
+[LinkedIn](https://www.linkedin.com/in/mark-trubnikov-4a5a0142/), [Facebook](https://www.facebook.com/mtrubnikov)
+
+Lead developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Roman Uskov
+
+[LinkedIn](https://www.linkedin.com/in/roman-uskov-6b78a64b/), [Facebook](https://www.facebook.com/roman.uskov.5)
+
+Lead developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Andy Zhuravlev
+
+[LinkedIn](https://www.linkedin.com/in/anzhur)
+
+Lead developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Vadim Sorokin
+
+[LinkedIn](https://www.linkedin.com/in/vadim-sorokin-b410343a), [Facebook](https://www.facebook.com/vadim.sorokin.798)
+
+Frontend developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Kons Tsabolov
+
+[LinkedIn](https://www.linkedin.com/in/konstantin-tsabolov), [Facebook](https://www.facebook.com/tsabolov)
+
+Lead developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
+## Alexander Nikolaev
+
+[LinkedIn](https://www.linkedin.com/in/alexander-nikolaev-37574059/), [Facebook](https://www.facebook.com/alexander.nikolaev.568)
+
+Developer @ Universa. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [Universa](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/lipatov-universa-borodich-sud-bonus-wishcoin-kak-praroditel-kriptoskamov-5b630b7875f4b900a936ee91).
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
