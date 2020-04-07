@@ -505,6 +505,22 @@ Lead frontend engineer @ Play2Live. Willingly participated in an obvious scam pr
 
 In the blacklist because of: [Play2Live](https://smart-lab.ru/blog/517009.php).
 
+## Pavel Stukolov
+
+[LinkedIn](https://www.linkedin.com/in/pavel-stukolov-760558a), [Facebook](https://www.facebook.com/pavel.stukolov)
+
+CEO @ TokenStars ACE, company that gathered money from investors, promised to have celebrities supporting the platform — and none did. No promises were fullfilled, all investors lost money.
+
+In the blacklist because of: [TokenStars ACE](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
+
+## Andrei Toukmanov
+
+[LinkedIn](https://www.linkedin.com/in/toukmanov/), [Facebook](https://www.facebook.com/toukmanov)
+
+CTO @ TokenStars ACE. Willingly participated in an obvious scam project.
+
+In the blacklist because of: [TokenStars ACE](https://zen.yandex.ru/media/id/592d3ad87ddde88dbd5af2da/kazn-skamico-token-stars-5a7df7ff00b3dd0f2dd74930).
+
 # FAQ
 
 > Q: What if I'm on the list and I want to be removed from it?
