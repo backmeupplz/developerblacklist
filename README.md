@@ -105,7 +105,7 @@ CTO @ Finom. Willingly participated in an obvious scam project.
 
 In the blacklist because of: [Finom](https://medium.com/golden-borodutch/%D1%87%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-ico-finom-76ec87766004).
 
-## Vadislav Alushkin
+## Vladislav Alushkin
 
 [Facebook](https://www.facebook.com/profile.php?id=100001614585921)
 
